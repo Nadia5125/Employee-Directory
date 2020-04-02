@@ -13,8 +13,6 @@ The Employee Directory is to allows the user to be able to search employees and 
 
 •	Heroku
 
-•	Express
-
 •	Node.js
 
 •	Javascript
