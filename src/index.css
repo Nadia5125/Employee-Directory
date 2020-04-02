@@ -1,0 +1,66 @@
+
+
+* {
+  width: 0 auto;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+
+body {
+  margin-top: 180px;
+  padding: 0;
+  margin-left: 0;
+  font-family: Italic;
+  background-image: url('/books6.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;  
+}
+
+
+.navbar {  
+  background: linear-gradient(rgb(230, 162, 61) 0%, rgb(199, 179, 141) 100%), linear-gradient(to right, rgb(219, 188, 147) 0%, rgb(6, 87, 87) 90%);
+  bottom: 180px;
+  border-radius: 0px;
+  height: 80px;
+}
+
+.employee-item{
+ display: block;
+ cursor: pointer;
+}
+
+.employee-item-text{
+  display: inline-block
+}
+
+.employee-item img{  
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;  
+}
+
+.employee-card {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  margin-top: -55px; 
+  margin-top: 40px;
+  margin-left: 90px;
+}
+
+
+.employee-card img{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-top: -30px;
+}
+
+.home-container {
+  margin-left: 10px;
+  margin-top: -40px;
+  font-size: medium;
+}

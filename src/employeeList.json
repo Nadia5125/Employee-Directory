@@ -1,0 +1,93 @@
+[
+    { 
+        "key": "t1",
+        "data":{
+            "name": "Nadia",
+            "info": "Full Stack Development",
+            "contact": {
+                "office": "202-000-3002",
+                "mobile": "202-321-0292",
+                "id": "125",
+                "email": "nadia@company.com"
+            }
+        }
+    },
+    {
+        "key": "t2",
+        "data":{
+            "name": "Frank",
+            "info": "Human Resources",
+            "contact": {
+                "office": "202-000-201",
+                "mobile": "202-627-2122",
+                "id": "599",
+                "email": "frank@company.com"
+            }
+        }
+    },
+    {
+        "key": "t3",
+        "data":{
+            "name": "Melly",
+            "info": "Business Analyst",
+            "contact": {
+                "office": "202-000-021",
+                "mobile": "202-521-6122",
+                "id": "272",
+                "email": "melly@company.com"
+            }
+        }
+    },
+    {
+        "key": "t4",
+        "data":{
+            "name": "John",
+            "info": "Software Development",
+            "contact": {
+                "office": "202-000-003",
+                "mobile": "202-671-4322",
+                "id": "176",
+                "email": "john@company.com"
+            }
+        }
+    },
+    {
+        "key": "t5",
+        "data":{
+            "name": "Tonny",
+            "info": "Quality Assurance",
+            "contact": {
+                "office": "202-000-957",
+                "mobile": "202-871-0222",
+                "id": "992",
+                "email": "tonny@company.com"
+            }
+        }
+    },
+    {
+        "key": "t6",
+        "data":{
+            "name": "Larry",
+            "info": "Intern",
+            "contact": {
+                "office": "202-545-666",
+                "mobile": "202-567-833",
+                "id": "456",
+                "email": "larry@company.com"
+            }
+        }
+    },
+     {  
+        "key": "t7",
+        "data":{
+            "name": "Ella",
+            "info": "UI/UX Designer",
+            "contact": {
+                "office": "202-000-012",
+                "mobile": "202-321-1752",
+                "id": "712",
+                "email": "ella@company.com"
+            }
+        }
+    }
+]
