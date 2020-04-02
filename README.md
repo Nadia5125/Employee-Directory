@@ -7,7 +7,7 @@ The Employee Directory is to allows the user to be able to search employees and 
 
 •	React
 
-•	JSon
+•	JSON
 
 •	Heroku
 
